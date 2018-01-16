@@ -1,0 +1,8 @@
+[
+  {"id": 1, "completed": false, "itemName": "Chips", "date": "October 1, 2014 11:13:00"},
+  {"id": 2, "completed": false, "itemName": "Cool Drinks", "date": "October 1, 2014 11:13:00"},
+  {"id": 3, "completed": false, "itemName": "ice cream", "date": "October 1, 2014 11:13:00"},
+  {"id": 4, "completed": false, "itemName": "Cheese", "date": "October 2, 2014 11:13:00"},
+  {"id": 5, "completed": false, "itemName": "Bread", "date": "October 3, 2014 11:13:00"},
+  {"id": 5, "completed": false, "itemName": "Mango Juice", "date": "October 3, 2014 11:13:00"}
+]
