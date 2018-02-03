@@ -1,0 +1,13 @@
+<nav role="navigation" class="navbar navbar-default">
+	<div class="">
+		<a href="/" class="navbar-brand">Web Application</a>
+	</div>
+		<ul class="nav navbar-nav">
+			<li><a href="/">Home</a></li>
+			<li><a href="/list">Todos</a></li>
+		</ul>
+		
+		<ul class="nav navbar-nav navbar-right">
+			<li><a href="/logout">Logout</a></li>
+		</ul>
+</nav>
