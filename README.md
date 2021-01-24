@@ -1,2 +1,2 @@
-# ChatApplication
-Siddhartha Sambidi Chat Application @Copyright 2017
+# POC Applications
+Siddhartha Sambidi Application @Copyright 2021
