@@ -1,2 +1,2 @@
 # POC Applications
-Siddhartha Sambidi Application @Copyright 2021
+Siddhartha Sambidi @Copyright 2021
